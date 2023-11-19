@@ -6,7 +6,7 @@ In this guide, we are going to review some of the most useful payloads in SQLinj
 
 # Links
 
-https://github.com/tanprahttps://github.com/tanprathan/OWASP-testing-checklist
+https://github.com/tanprathan/OWASP-testing-checklist
 
 https://github.com/payloadbox/sql-injection-payload-list
 
